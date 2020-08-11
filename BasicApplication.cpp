@@ -658,8 +658,6 @@ int main(int argc, char* argv[])
 
 
 /*
-Student Number: 910830
-Name: James MAssey
 results:
 Computer/processor details: Acer Aspire 5 - Intel Core i5-8265U 4 Core
 CPU 1 thread  :	 1506649 ms
